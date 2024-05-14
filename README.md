@@ -1,4 +1,5 @@
-https://github.com/CodeCraftsman1999/Real-time-Chat-Application-with-Socket.io-and-Node.js/blob/main/ichat%20application.jpeg
+![ichat application](https://github.com/CodeCraftsman1999/Real-time-Chat-Application-with-Socket.io-and-Node.js/blob/main/ichat%20application.jpeg)
+
 # Real-time Chat Application with Socket.io and Node.js
 
 This is a real-time chat application built using Socket.io and Node.js. It allows users to create chat rooms and communicate with each other in real-time.
